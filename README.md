@@ -1,5 +1,4 @@
 # Zadanie testowe moreBIT
-# Emilian Bochenek 
 
 Wszystkie zadania znajduja sie w osobnych folderach.
 
